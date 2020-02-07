@@ -1,4 +1,4 @@
-# Find Duplicate Images
+# Find Duplicate Images in a List of Directories
 
 Sometimes you may have several different images and some same images with different sizes and resolutions. This file can be used to find these same images from one or more directories. 
 
